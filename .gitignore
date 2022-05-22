@@ -1,0 +1,31 @@
+# IDE
+.vscode/
+.idea/
+
+# pycache
+**/__pycache__/
+./__pycache__/
+
+# venv
+venv/
+
+# .pyc
+**/*.pyc
+*.pyc
+
+# .DS_Store
+**/.DS_Store
+.DS_Store
+
+# Celery Beat
+**/celerybeat-schedule
+
+
+# DB volumes
+.dbdata/
+
+# .env
+**/.env.local
+
+tasks/config/tasks-config.json
+backend/config/reminder-config.json
