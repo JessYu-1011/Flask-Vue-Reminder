@@ -1,0 +1,21 @@
+{
+    "name": "Flask-Vue-Reminder",
+    "short_name": "Reminder",
+    "theme_color": "#3b9be7",
+    "background_color": "#9ccdf4",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "index.html",
+    "icons": [
+        {
+            "src": "./72.png",
+            "type":"image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "./144.png",
+            "type":"image/png",
+            "sizes": "144x144"
+        }
+    ]
+}

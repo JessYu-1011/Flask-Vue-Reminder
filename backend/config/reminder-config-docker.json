@@ -1,0 +1,6 @@
+{
+	"SQLALCHEMY_DATABASE_URI": "mysql://test:password@db/flask",
+	"SECRET_KEY": "secretkey",
+	"BASIC_AUTH_USERNAME": "John_Doe",
+	"BASIC_AUTH_PASSWORD": "password"
+}

@@ -1,0 +1,8 @@
+{
+	"DATABASE_URI": "mysql://test:password@db/flask",
+	"BROKER_URI": "redis://redis:6379/0",
+	"BACKEND_URI": "redis://redis:6379/1",
+	"MAIL_ACCOUNT": "example@example.com",
+	"MAIL_PASSWORD": "password",
+	"TO_ADDR": "example@example.com"
+}
