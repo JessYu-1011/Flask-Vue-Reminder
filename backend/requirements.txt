@@ -11,7 +11,7 @@ click-didyoumean==0.3.0
 click-plugins==1.1.1
 click-repl==0.2.0
 colorama==0.4.4
-cryptography==36.0.1
+cryptography==39.0.1
 Flask==2.0.2
 Flask-Admin==1.5.8
 Flask-BasicAuth==0.2.0
