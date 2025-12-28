@@ -27,11 +27,11 @@ itsdangerous==2.0.1
 Jinja2==3.0.3
 jsonschema==4.2.1
 kombu==5.2.2
-Mako==1.1.6
+Mako==1.2.2
 MarkupSafe==2.0.1
 marshmallow==3.14.1
 marshmallow-sqlalchemy==0.26.1
-mistune==2.0.0
+mistune==2.0.3
 mysqlclient==2.1.0
 packaging==21.3
 pip-review==1.1.0
